@@ -1,6 +1,5 @@
-
 const malla = {
-  "Primer semestre": [
+  "1° semestre": [
     "Biología Celular y Molecular",
     "Química",
     "Matemática",
@@ -8,13 +7,89 @@ const malla = {
     "Introducción a la Medicina",
     "Desempeño Universitario"
   ],
-  "Segundo semestre": [
+  "2° semestre": [
     "Morfosiología I",
     "Anatomía General",
     "Introducción a la Investigación",
     "Bioquímica",
     "Redacción General",
     "Realidad Nacional"
+  ],
+  "3° semestre": [
+    "Morfosiología II",
+    "Fisiología Humana",
+    "Embriología Humana",
+    "Genética Médica",
+    "Psicología General"
+  ],
+  "4° semestre": [
+    "Farmacología General",
+    "Patología General",
+    "Microbiología Médica",
+    "Parasitología",
+    "Psicología Médica"
+  ],
+  "5° semestre": [
+    "Semiología Médica I",
+    "Inmunología",
+    "Patología Sistémica I",
+    "Salud Pública I",
+    "Filosofía y Ética"
+  ],
+  "6° semestre": [
+    "Semiología Médica II",
+    "Patología Sistémica II",
+    "Farmacología Clínica",
+    "Imagenología",
+    "Salud Pública II"
+  ],
+  "7° semestre": [
+    "Medicina Interna I",
+    "Pediatría I",
+    "Ginecoobstetricia I",
+    "Psiquiatría I",
+    "Ética Médica"
+  ],
+  "8° semestre": [
+    "Medicina Interna II",
+    "Pediatría II",
+    "Ginecoobstetricia II",
+    "Psiquiatría II",
+    "Metodología de la Investigación"
+  ],
+  "9° semestre": [
+    "Cirugía General I",
+    "Medicina Familiar y Comunitaria",
+    "Medicina Legal",
+    "Bioética Clínica",
+    "Epidemiología Clínica"
+  ],
+  "10° semestre": [
+    "Cirugía General II",
+    "Traumatología",
+    "Dermatología",
+    "Oftalmología",
+    "Otorrinolaringología"
+  ],
+  "11° semestre": [
+    "Internado: Medicina Interna",
+    "Internado: Pediatría",
+    "Internado: Ginecoobstetricia"
+  ],
+  "12° semestre": [
+    "Internado: Cirugía General",
+    "Internado: Psiquiatría",
+    "Internado: Medicina Familiar"
+  ],
+  "13° semestre": [
+    "Internado: Medicina Comunitaria",
+    "Internado: Emergencias",
+    "Electivo Profesional I"
+  ],
+  "14° semestre": [
+    "Internado: Electivo Profesional II",
+    "Internado: Investigación Aplicada",
+    "Internado: Revisión de Casos Clínicos"
   ]
 };
 
